@@ -1,2 +1,1 @@
-# james-archer
-Personal online portfolio page
+# james-archer.com
